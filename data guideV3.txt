@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Standoff 2, the popular mobile first-person shooter (FPS) game, has taken the gaming world by storm with its intense gameplay and captivating graphics ",
+   "photo1":"https://iili.io/Hbq7LAB.webp"},
+  {"desc2":"In this dynamic game, players from around the globe engage in fierce gunfights, showcasing their skills and strategies","photo2":"https://iili.io/Hbq7s9V.webp"},
+  {"desc3":"Join us as we dive into the exhilarating highlights of Standoff 2, where every moment is a heart-pounding adventure.","photo3":"https://iili.io/Hbq7Zt1.webp"},
+  {"desc4":"Standoff 2 is not your typical run-and-gun shooter. It emphasizes strategy and teamwork.","photo4":"https://iili.io/Hbq7QwP.webp"},
+  {"desc5":"Players must communicate effectively, coordinate attacks, and use their surroundings to gain an advantage","photo5":"https://iili.io/Hbq7DoF.webp"},
+  {"descd":"The highlight here is the intricate balance between stealth and aggression, making each match a tactical masterpiece.","photod":"https://iili.io/Hbq7bMg.webp"}
    ]
  
 }
